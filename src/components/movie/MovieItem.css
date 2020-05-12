@@ -1,0 +1,11 @@
+
+.image-item {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.image-item.item img {
+    max-width: 120px;
+    max-height: 120px;
+}
